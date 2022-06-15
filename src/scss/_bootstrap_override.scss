@@ -1,0 +1,19 @@
+.btn:hover {
+  color: #23282c;
+  text-decoration: none;
+}
+
+.btn-outline-secondary:hover {
+  color: #c9411b;
+  background-color: transparent;
+  border: none;
+}
+
+.btn-default:hover {
+  color: #c9411b;
+}
+
+.ant-modal-mask,
+.ant-modal-wrap {
+  z-index: 1020;
+}

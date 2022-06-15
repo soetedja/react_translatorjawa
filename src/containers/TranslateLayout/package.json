@@ -1,0 +1,6 @@
+{
+  "name": "TranslateLayout",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./TranslateLayout.js"
+}
